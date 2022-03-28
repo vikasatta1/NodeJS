@@ -1,0 +1,4 @@
+[
+  {"id": 1, "banned": true, "name": "vika"},
+  {"id": 2, "banned": false, "name": "anya"}
+]
